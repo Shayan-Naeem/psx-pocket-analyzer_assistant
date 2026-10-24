@@ -1,0 +1,6 @@
+{
+  "name": "PSX Pocket Advisor & Alert Assistant",
+  "description": "Institutional financial terminal and alert assistant for Pakistan Stock Exchange blue-chip stocks with real-time valuation, dual-trigger alerts, and Gemma 4 Agent Skill.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
